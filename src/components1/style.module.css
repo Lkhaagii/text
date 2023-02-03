@@ -1,0 +1,21 @@
+.button-black {
+  background-color: rgb(18, 18, 18);
+}
+.button-blue {
+  background-color: rgb(23, 35, 206);
+}
+.img {
+  width: 19px;
+  height: 19px;
+  margin-right: 100px;
+}
+.displaynone {
+  display: none;
+}
+p {
+  color: aliceblue;
+}
+.button {
+  width: 200px;
+  height: 100px;
+}
